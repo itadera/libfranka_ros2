@@ -1,0 +1,9 @@
+[submodule "franka_description"]
+	path = franka_description
+	url = https://github.com/itadera/franka_description.git
+[submodule "franka_ros2"]
+	path = franka_ros2
+	url = https://github.com/itadera/franka_ros2.git
+[submodule "libfranka"]
+	path = libfranka
+	url = https://github.com/frankarobotics/libfranka.git
