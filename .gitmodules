@@ -4,6 +4,7 @@
 [submodule "franka_ros2"]
 	path = franka_ros2
 	url = https://github.com/itadera/franka_ros2.git
+	branch = humble
 [submodule "libfranka"]
 	path = libfranka
 	url = https://github.com/frankarobotics/libfranka.git
